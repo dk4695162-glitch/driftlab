@@ -1,0 +1,6 @@
+{
+  "name": "Driftlab",
+  "description": "A jellyfish drifts through a lilac sky while huge words wrap around it as you scroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
